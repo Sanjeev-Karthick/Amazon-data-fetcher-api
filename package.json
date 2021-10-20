@@ -1,0 +1,16 @@
+{
+  "name": "amazon-data",
+  "version": "1.0.0",
+  "description": "This is an api which fetches data like search results, product reviews, product offers and product ideas from amazon.in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjeev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "express": "^4.17.1",
+    "request-promise": "^4.2.6"
+  }
+}
